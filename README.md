@@ -49,7 +49,7 @@ always seeking new challenges that allow me to create value and innovate.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanJairo06&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanjairo06&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
 </p>  
 
 <br>
