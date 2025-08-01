@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi , I'm Jean Jairo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="/"><img src="https://readme-typing-svg.herokuapp.com?lines=%7B%0A%20%20'Systems%20Engineering%20Student'%0A%7D&center=true&width=500&height=50"></a>
+<a href="/https://github.com/JeanJairo06"><img src="https://readme-typing-svg.herokuapp.com?lines=%7B%0A%20%20'Systems%20Engineering%20Student'%0A%7D&center=true&width=500&height=50"></a>
 
   <!--;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things-->
 </p>
